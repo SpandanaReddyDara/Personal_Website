@@ -33,7 +33,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Java, Spring, Javascript, React, SAP Hybris.{" "}
+                  Java, Spring, Spring Boot, Javascript, React, SAP Hybris.{" "}
                 </b>
               </i>
               <br />

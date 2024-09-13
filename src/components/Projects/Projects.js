@@ -25,9 +25,18 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Twitter Simulator"
-              description="Designed Twitter simulator on Spring MVC by leveraging Hibernate, reducing data retrieval latency by 50%. Enriched application with features like friend-request, posting a tweet, comments section and private messaging."
+              title="Social Sphere"
+              description="Developed social connectivity app on Spring Boot by leveraging Hibernate, OOPS and design patterns, reducing data retrieval latency by 10%. Key features include friend requests, tweet posting, comments, and private messaging."
               ghLink="https://github.com/Spandana-dara/Twitter-Simulator"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="AI-Tee Designer	 "
+              description="Built an AI-powered T-shirt customizer web app using React.js, Three.js, and Stable Diffusion API to generate personalized designs, creating an immersive and interactive e-commerce experience."
+              ghLink="https://github.com/Spandana-dara/StudentFeedbackApplication"
             />
           </Col>
 
@@ -43,21 +52,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="Student Feedback Application "
-              description="Created an application for students to provide feedback on courses, college and curriculum, enabling data analysis and report generation, handling over 1000 feedback entries, benefitting over 200 students."
-              ghLink="https://github.com/Spandana-dara/StudentFeedbackApplication"              
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={emotion}
               isBlog={false}
               title="Covey Town"
               description="Developed a TicTacToe game module for an existing application, allowing players to enter a dedicated gaming area and compete against others. The game also features a leaderboard to showcase top player rankings and achievements."
               ghLink="https://github.com/Spandana-dara/Covey-Town"
-             
             />
           </Col>
 
@@ -79,7 +78,6 @@ function Projects() {
               description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
               ghLink=""
-             
             />
           </Col>
         </Row>
