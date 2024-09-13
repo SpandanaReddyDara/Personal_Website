@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/Personal_Website/static/css/main.98ad90dc.css",
-    "main.js": "/Personal_Website/static/js/main.8a34f1ad.js",
-    "static/js/415.4d6acbeb.chunk.js": "/Personal_Website/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Personal_Website/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/Personal_Website/static/css/main.1dd0846e.css",
+    "main.js": "/Personal_Website/static/js/main.624a4bcb.js",
+    "static/js/415.fc063c41.chunk.js": "/Personal_Website/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/Personal_Website/static/js/787.f6e65957.chunk.js",
     "static/media/leaf.png": "/Personal_Website/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/Personal_Website/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/Spandana_Resume_Fulltime.pdf": "/Personal_Website/static/media/Spandana_Resume_Fulltime.a9e5f933dbbfa04f42f7.pdf",
     "static/media/codeEditor.png": "/Personal_Website/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/Personal_Website/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/Personal_Website/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -16,13 +15,13 @@
     "static/media/logo.png": "/Personal_Website/static/media/logo.78c5e8788f30b69ccc09.png",
     "static/media/pre.svg": "/Personal_Website/static/media/pre.6c1df6a256df438e81c4.svg",
     "index.html": "/Personal_Website/index.html",
-    "main.98ad90dc.css.map": "/Personal_Website/static/css/main.98ad90dc.css.map",
-    "main.8a34f1ad.js.map": "/Personal_Website/static/js/main.8a34f1ad.js.map",
-    "415.4d6acbeb.chunk.js.map": "/Personal_Website/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Personal_Website/static/js/787.1ed0c42c.chunk.js.map"
+    "main.1dd0846e.css.map": "/Personal_Website/static/css/main.1dd0846e.css.map",
+    "main.624a4bcb.js.map": "/Personal_Website/static/js/main.624a4bcb.js.map",
+    "415.fc063c41.chunk.js.map": "/Personal_Website/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/Personal_Website/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98ad90dc.css",
-    "static/js/main.8a34f1ad.js"
+    "static/css/main.1dd0846e.css",
+    "static/js/main.624a4bcb.js"
   ]
 }
