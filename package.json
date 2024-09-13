@@ -1,5 +1,5 @@
 {
-  "homepage": "https://spandana-dara.github.io/Personal-Website/",
+  "homepage": "https://SpandanaReddyDara.github.io/Personal_Website/",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -50,6 +50,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.1.1"
   }
 }
